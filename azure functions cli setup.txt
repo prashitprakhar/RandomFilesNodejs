@@ -1,0 +1,4 @@
+https://github.com/Azure/azure-functions-cli 
+https://docs.microsoft.com/en-us/azure/azure-functions/functions-run-local 
+ 
+https://blogs.msdn.microsoft.com/appserviceteam/2016/12/01/running-azure-functions-locally-with-the-cli/ 
