@@ -3,7 +3,7 @@ var express = require('express');
 var app = express();
 
 app.get('/', function(req, res){
-res.send('I am home page after local change');
+res.send('I am home page');
 });
 
 app.get('/contact', function(req, res){
